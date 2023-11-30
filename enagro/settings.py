@@ -141,5 +141,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 EMAIL_HOST = ''# название почты
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 EMAIL_HOST_USER = '' #
-EMAIL_PORT = #порт надо цифрами
+EMAIL_PORT = 587 #порт надо цифрами
 EMAIL_USE_TLS =True
